@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Undestined",
+  "base_artist": "yosumi",
+  "createdAt": "2026-02-18T12:21:57.435727Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Undestined",
+      "artist": "yosumi",
+      "has_synced": false,
+      "path": "select/pl_01_Undestined_yosumi.txt"
+    }
+  ]
+}
